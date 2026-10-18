@@ -1,0 +1,8 @@
+{
+  "name": "Smart Expense Tracker",
+  "description": "Intelligent personal finance app with expense tracking, smart auto-categorization, budget planning, savings goals, debt management, and interactive financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
